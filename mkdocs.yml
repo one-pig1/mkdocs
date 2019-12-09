@@ -6,7 +6,7 @@ repo_name: 'github'
 repo_url: 'https://one-pig1.github.io/mkdocs/'
 
 theme:
-  name: material
+  name: 'material'
   language: 'zh'
 
 extra:
