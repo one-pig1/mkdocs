@@ -1,4 +1,4 @@
 # mkdocs
 
-> [地址](https://github.com/one-pig1/mkdocs/ 'mkdocs')
+> [地址](https://one-pig1.github.io/mkdocs/ 'mkdocs')
 
