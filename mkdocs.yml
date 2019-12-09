@@ -3,7 +3,7 @@ site_description: mkdocs
 site_author: zhenfeng.zhao
 
 repo_name: 'github'
-repo_url: 'https://github.com/zzfeng2012/books'
+repo_url: 'https://one-pig1.github.io/mkdocs/'
 
 theme:
   name: material
@@ -12,9 +12,9 @@ theme:
 extra:
   social:
     - type: github
-      link: https://github.com/zzfeng2012
+      link: https://github.com/one-pig1
     - type: gitee
-      link: https://gitee.com/zzfeng2012
+      link: https://gitee.com/one_pig1
   search:
     language: 'jp'
 
