@@ -3,7 +3,7 @@ site_description: mkdocs
 site_author: zhenfeng.zhao
 
 repo_name: 'github'
-repo_url: 'https://one-pig1.github.io/mkdocs/'
+repo_url: 'https://github.com/one-pig1/mkdocs'
 
 theme:
   name: 'material'
